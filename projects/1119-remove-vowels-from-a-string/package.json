@@ -1,0 +1,13 @@
+{
+  "name": "1119-remove-vowels-from-a-string",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.ts",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
